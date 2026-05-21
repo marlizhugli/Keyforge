@@ -1,0 +1,6 @@
+{
+  "name": "Isotope Calculator",
+  "description": "A modern web application that identifies isotopes based on protons and neutrons, detailing their stability and common uses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
